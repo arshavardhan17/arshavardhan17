@@ -94,20 +94,6 @@ Passionate about **scalable systems**, **clean UI/UX**, **DevOps**, and **Genera
 
 ---
 
-# 📊 GitHub Activity (Interactive)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshavardhan17&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arshavardhan17&theme=tokyonight" height="170"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshavardhan17&layout=compact&theme=tokyonight" height="150"/>
-
-</div>
-
-
----
-
 # 🔍 Where to Find Me
 
 <div align="center">
@@ -120,23 +106,4 @@ Passionate about **scalable systems**, **clean UI/UX**, **DevOps**, and **Genera
 
 </div>
 
----
 
-### Anchor References
-
-(Do not remove these)
-
-[tech_tools_anchor]: #tech-tools
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
----
-
-## If you want, I can also add:
-
-**• Animated avatar banner**
-**• Snake contribution graph**
-**• Dark glassmorphism theme**
-**• 3D card layout for projects**
-
-Tell me what style you prefer.
