@@ -12,13 +12,6 @@
 
 ---
 
-
-# 🛠️ Tech Stack 
-
-<a name="tech-tools"></a>
-
----
-
 ## 💻 Programming Languages
 
 <div align="center">
