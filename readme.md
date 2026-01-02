@@ -13,7 +13,7 @@
 ---
 
 
-# 🛠️ Tech Stack (Interactive)
+# 🛠️ Tech Stack 
 
 <a name="tech-tools"></a>
 
