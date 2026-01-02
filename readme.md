@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## ⚛️ Frameworks & Libraries
+## Frameworks & Libraries
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## ☁️ Server Technologies
+## Server Technologies
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🗄️ Databases & ORMs
+## Databases & ORMs
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠️ DevOps & Deployment
+## DevOps & Deployment
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-# 📖 Currently Learning
+# Currently Learning
 
 <a name="learning-now"></a>
 
@@ -80,7 +80,7 @@
 
 ---
 
-# 🔍 Where to Find Me
+# Where to Find Me
 
 <div align="center">
 
