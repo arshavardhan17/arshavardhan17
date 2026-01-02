@@ -3,7 +3,7 @@
 # Hi  My name is *Arsha Vardhan* and I'm a Student At KlUniversity 
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/leuNkvf9pE6loEnjnb/giphy.gif" width="200" alt="Coding Cat"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGloZmd0N2h3NTJwcWFudGNrM2NpaGIzN2xtZTVzZ2V2azd4cG9xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200" alt="Coding Cat"/>
 </div>
 
 <div align="center">
