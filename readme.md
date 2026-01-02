@@ -1,24 +1,17 @@
 
 
-# 👋 Hello! I'm **Arsha Vardhan**
+# Hi  My name is *Arsha Vardhan* and I'm a Student At KlUniversity 
 
 <div align="center">
-
-![wave](https://capsule-render.vercel.app/api?type=waving\&height=180\&text=Arsha%20Vardhan\&fontAlign=50\&fontAlignY=40\&color=gradient)
-
+  <img src="https://media0.giphy.com/media/leuNkvf9pE6loEnjnb/giphy.gif" width="200" alt="Coding Cat"/>
 </div>
 
-**Full-Stack Developer | CSE Student | Cloud & AI Enthusiast**
-
-Passionate about **scalable systems**, **clean UI/UX**, **DevOps**, and **Generative + Agentic AI**.
-
 <div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
+
 
 # 🛠️ Tech Stack (Interactive)
 
